@@ -1,0 +1,27 @@
+[submodule "electronique/cdfr2023-base-roulante-carte-asservissment"]
+	path = electronique/cdfr2023-base-roulante-carte-asservissment
+	url = git@github.com:robotronik/cdfr2023-base-roulante-carte-asservissment.git
+[submodule "electronique/cdfr2024-carte-Arduino"]
+	path = electronique/cdfr2024-carte-Arduino
+	url = git@github.com:robotronik/cdfr2024-carte-Arduino.git
+[submodule "electronique/cdfr2024-carte-Raspberry"]
+	path = electronique/cdfr2024-carte-Raspberry
+	url = git@github.com:robotronik/cdfr2024-carte-Raspberry.git
+[submodule "informatique/cdfr2023-programme-base-roulante-asservissment"]
+	path = informatique/cdfr2023-programme-base-roulante-asservissment
+	url = git@github.com:robotronik/cdfr2023-programme-base-roulante-asservissment.git
+[submodule "informatique/cdfr2024-programme-Actionneur"]
+	path = informatique/cdfr2024-programme-Actionneur
+	url = git@github.com:robotronik/cdfr2024-programme-Actionneur.git
+[submodule "informatique/CDFR2025-Programme-Robot"]
+	path = informatique/CDFR2025-Programme-Robot
+	url = git@github.com:robotronik/CDFR2025-Programme-Robot.git
+[submodule "informatique/simulation-asservissement"]
+	path = informatique/simulation-asservissement
+	url = git@github.com:robotronik/simulation-asservissement.git
+[submodule "informatique/Librairie-Commune"]
+	path = informatique/Librairie-Commune
+	url = git@github.com:robotronik/Librairie-Commune.git
+[submodule "informatique/librairie-commune"]
+	path = informatique/librairie-commune
+	url = git@github.com:robotronik/librairie-commune.git
