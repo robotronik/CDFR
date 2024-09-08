@@ -8,16 +8,16 @@ Ce repo contient tous les codes ainsi que les cartes de la coupe de France.
    ```bash
    git clone --recurse-submodules git@github.com:robotronik/CDFR.git
 
-## Composition
-nom-du-projet/
-├── informatique/
-│   ├── Code General (Raspberry pi)
-│   ├── Code Asservissement (stm32)
-│   └── Code Actionneur (Arduino)
-└── electronique/
-    ├── shield Raspberry pi
-    ├── Carte Asservissement
-    └── Carte Actionneur
+## Composition  
+nom-du-projet/  
+├── informatique/  
+│ &nbsp; &nbsp; ├── Code General (Raspberry pi)  
+│ &nbsp; &nbsp; ├── Code Asservissement (stm32)  
+│ &nbsp; &nbsp; └── Code Actionneur (Arduino)  
+└── electronique/  
+&nbsp; &nbsp; &nbsp; &nbsp;├── shield Raspberry pi  
+&nbsp; &nbsp; &nbsp; &nbsp;├── Carte Asservissement  
+&nbsp; &nbsp; &nbsp; &nbsp;└── Carte Actionneur
 
 
 ## Correspondance code et carte
