@@ -6,6 +6,8 @@
 # - Export as Wavefront (.obj)
 # - Selection Only
 # - triangulate faces
+# - Y Forward, Z Up
+# - Dont write materials
 
 
 import sys
@@ -38,7 +40,7 @@ def main():
  
     print("#define HIGHWAY_POINTS_COUNT " + str(len(points)))
     print("#define HIGHWAY_LINES_COUNT " + str(len(lines)))
-    #print without line return
+    
     print("static highway_point points[] = {", end="")
     for point in points:
         print("{" + str(point[0]) + ", " + str(point[1]) + "},", end="")
