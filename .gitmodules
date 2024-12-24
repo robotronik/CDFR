@@ -25,3 +25,6 @@
 [submodule "informatique/librairie-commune"]
 	path = informatique/librairie-commune
 	url = git@github.com:robotronik/librairie-commune.git
+[submodule "electronique/cdfr2025-carte-pamis"]
+	path = electronique/cdfr2025-carte-pamis
+	url = git@github.com:robotronik/cdfr2025-carte-pamis.git
