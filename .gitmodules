@@ -28,3 +28,6 @@
 [submodule "electronique/cdfr2025-carte-pamis"]
 	path = electronique/cdfr2025-carte-pamis
 	url = git@github.com:robotronik/cdfr2025-carte-pamis.git
+[submodule "informatique/PythonArucoOpenCV"]
+	path = informatique/PythonArucoOpenCV
+	url = git@github.com:robotronik/PythonArucoOpenCV.git
