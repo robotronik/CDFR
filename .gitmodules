@@ -1,9 +1,9 @@
 [submodule "electronique/cdfr2023-base-roulante-carte-asservissment"]
 	path = electronique/cdfr2023-base-roulante-carte-asservissment
 	url = git@github.com:robotronik/cdfr2023-base-roulante-carte-asservissment.git
-[submodule "electronique/cdfr2024-carte-Arduino"]
-	path = electronique/cdfr2024-carte-Arduino
-	url = git@github.com:robotronik/cdfr2024-carte-Arduino.git
+[submodule "electronique/CDFR2025-carte-Arduino"]
+	path = electronique/CDFR2025-carte-Arduino
+	url = git@github.com:robotronik/CDFR2025-carte-Arduino.git
 [submodule "electronique/cdfr2024-carte-Raspberry"]
 	path = electronique/cdfr2024-carte-Raspberry
 	url = git@github.com:robotronik/cdfr2024-carte-Raspberry.git
