@@ -31,3 +31,6 @@
 [submodule "informatique/PythonArucoOpenCV"]
 	path = informatique/PythonArucoOpenCV
 	url = git@github.com:robotronik/PythonArucoOpenCV.git
+[submodule "informatique/programme-pamis"]
+	path = informatique/programme-pamis
+	url = git@github.com:robotronik/programme-pamis.git
