@@ -20,7 +20,6 @@ CDFR/
 │   ├── Code General (Raspberry pi)
 │   ├── Code Asservissement (stm32)
 │   ├── Code Actionneur (Arduino)
-│   ├── librairie commune
 │   └── simulation asservissement
 └── electronique/
     ├── shield Raspberry pi
