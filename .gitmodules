@@ -16,15 +16,6 @@
 [submodule "informatique/CDFR2026-Programme-Robot"]
 	path = informatique/CDFR2026-Programme-Robot
 	url = git@github.com:robotronik/CDFR2026-Programme-Robot.git
-[submodule "informatique/simulation-asservissement"]
-	path = informatique/simulation-asservissement
-	url = git@github.com:robotronik/simulation-asservissement.git
-[submodule "electronique/cdfr2025-carte-pamis"]
-	path = electronique/cdfr2025-carte-pamis
-	url = git@github.com:robotronik/cdfr2025-carte-pamis.git
 [submodule "informatique/PythonArucoOpenCV"]
 	path = informatique/PythonArucoOpenCV
 	url = git@github.com:robotronik/PythonArucoOpenCV.git
-[submodule "informatique/programme-pamis"]
-	path = informatique/programme-pamis
-	url = git@github.com:robotronik/programme-pamis.git
