@@ -16,9 +16,6 @@
 [submodule "informatique/CDFR2026-Programme-Robot"]
 	path = informatique/CDFR2026-Programme-Robot
 	url = git@github.com:robotronik/CDFR2026-Programme-Robot.git
-[submodule "informatique/PythonArucoOpenCV"]
-	path = informatique/PythonArucoOpenCV
-	url = git@github.com:robotronik/PythonArucoOpenCV.git
 [submodule "informatique/CDFR2027-Mat-Vision"]
 	path = informatique/CDFR2027-Mat-Vision
 	url = git@github.com:robotronik/CDFR2027-Mat-Vision.git
